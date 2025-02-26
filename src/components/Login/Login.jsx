@@ -28,7 +28,7 @@ const Login = () => {
     <React.Fragment>
     <div className="container">
 
-    <h2>Login Form</h2>
+    <h2>Logina Form</h2>
 
     <Form 
       name="basic"
