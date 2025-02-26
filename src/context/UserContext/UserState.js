@@ -49,7 +49,6 @@ export const UserProvider = ({ children }) => {
         }
     }
 
-    
 
     const getUserInfo = async()=>{
         const token = JSON.parse(localStorage.getItem("token"))

@@ -1,0 +1,8 @@
+.cartProduct{
+    border: 1px solid black;
+}
+
+.contenedorBtn{
+    display: flex;
+    justify-content: space-around;
+}
