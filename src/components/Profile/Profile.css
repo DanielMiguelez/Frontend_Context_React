@@ -1,0 +1,8 @@
+.containerPerfil{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 2px solid black;
+    width: 30vh;
+    background-color: rgb(72, 131, 250);
+}
